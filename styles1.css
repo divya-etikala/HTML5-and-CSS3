@@ -1,0 +1,39 @@
+﻿body {
+           font-family : arial, sans-serif;
+           background-color : #fff5cc;
+           
+            
+}
+
+header {
+                 width : 80%;
+                 background-color  : #ee4466;
+                 color : black;
+                 margin-left : auto;
+                 margin-right :auto;
+                 text-align : center;	
+                 padding : 10px;
+}
+
+section {
+                 width : 80%;
+                 background-color  : #00cc88;
+                 color : black;
+                 margin-left : auto;
+                 margin-right :auto;
+                 text-align : center;
+                 border-width : 5px;
+                 border-style : solid;
+                 border-color: #ee4466;
+                 padding : 5px;
+}
+
+footer { 
+               width : 80%;
+               background-color  : #ee4466;
+               color : black;
+               margin-left : auto;
+               margin-right :auto;
+               text-align : center;
+               padding : 10px;
+}
